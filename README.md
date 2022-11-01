@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rippermx1
 - 👀 I’m interested in Crypto Finance
-- 🌱 I’m currently learning Solisity
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Crypto Projects
 - 📫 How to reach me valdesacarlo17@gmail.com
 
